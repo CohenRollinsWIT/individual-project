@@ -1,1 +1,28 @@
-/.gitkeep
+readme.md
+# Individual Project – Cohen Rollins
+
+This repository contains my individual project for COMP 3125 (Data Science Fundamentals).
+
+## Repository Structure
+
+- **data/**  
+  Placeholder folder for any datasets used in the project.
+
+- **pictures/**  
+  Folder for figures, charts, screenshots, or images used in the report.
+
+- **codes/**  
+  Folder for Jupyter notebooks, Python files, or any other scripts.
+
+- **report/**  
+  Contains the draft report files:
+  - PDF version  
+  - Word (.docx) version  
+
+## Project Description (Draft)
+
+This project will analyze a dataset and apply data science techniques to understand patterns and relationships.  
+The report currently includes drafted sections for:
+- Introduction  
+- Dataset description  
+- Methods to be used  
